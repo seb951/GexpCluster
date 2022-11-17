@@ -1,4 +1,4 @@
-##Overview  
+## Overview  
 * This is a shiny app to cluster gene expression data
 2022
 
@@ -19,7 +19,6 @@ rsconnect::deployApp()
 ```
 
 ## Further Information   
-* Sébastien Renaut
 * sebastien.renaut@gmail.com
 
 
