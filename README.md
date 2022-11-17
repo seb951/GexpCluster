@@ -1,7 +1,6 @@
 ## Overview  
-* This is a shiny app to cluster gene expression data
-2022
-
+* This is a shiny app to cluster gene expression data.
+* Currently deployed [on shinyapps.io](https://sebastien.shinyapps.io/gexpcluster/)
 
 ## Installation  
 
