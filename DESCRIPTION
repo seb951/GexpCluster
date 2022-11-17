@@ -1,0 +1,20 @@
+Package: GexpCluster
+Title: Gene Expression Clustering
+Version: 0.0.0.9000
+Authors@R: person('Sebastien', 'Renaut', email = 'sebastien.renaut@gmail.com', role = c('cre', 'aut'))
+Description: Cluster Gexpression. Also use clinical data. Shiny app.
+License: What license is it under?
+Imports: 
+    cluster,
+    config (>= 0.3.1),
+    DT,
+    golem (>= 0.3.5),
+    readr,
+    shiny (>= 1.7.2),
+    shinythemes,
+    stats,
+    tools,
+    wesanderson
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.2
