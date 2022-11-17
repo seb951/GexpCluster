@@ -1,26 +1,26 @@
-**Overview  
-This is a shiny app to cluster gene expression data
+##Overview  
+* This is a shiny app to cluster gene expression data
 2022
 
 
-**Installation  
+## Installation  
 
-**Basic Usage  
+## Basic Usage  
 ``` r
 library(golem)
 golem::run_dev()
 ```
 
 
-**Deployment  
+## Deployment  
 ``` r
 golem::add_shinyappsio_file()
 rsconnect::deployApp()
 ```
 
-**Further Information   
-Sébastien Renaut
-sebastien.renaut@gmail.com
+## Further Information   
+* Sébastien Renaut
+* sebastien.renaut@gmail.com
 
 
 
